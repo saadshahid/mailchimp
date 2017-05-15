@@ -1,0 +1,25 @@
+Chest:
+
+1- flat barbell bench press
+2- inclined barbell bench pres
+3- flyes (dumbells or machine)
+4- decline barbell bench press
+
+Biceps:
+
+1- barbell curls
+2- dumbell curls
+3- concentrate curl
+4- Preacher curls (machine)
+
+Back:
+1- Front Lat pull down
+2- Back Lat pull down
+3- Seated cable rowing
+4- single dumbell rowing
+
+Triceps:
+
+1- Rope pull down
+2- Skull crush
+3- over head back dumbell
